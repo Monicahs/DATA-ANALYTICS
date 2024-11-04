@@ -1,2 +1,2 @@
 # DATA-ANALYTICS
-This is a data analytics project titled "2024 paris olympics data analysis"
+"PARIS 2024 SUMMER OLYMPICS DATA ANALYSIS"  is a data analytics project with dashboard creation.
